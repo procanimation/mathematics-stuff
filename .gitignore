@@ -1,0 +1,14 @@
+# Secrets & Private Credentials (CRITICAL)
+.env
+.env.*
+*.pem
+*.key
+*.token
+*secret*
+*credential*
+credentials.json
+client_secret*.json
+
+# OS artifacts
+.DS_Store
+Thumbs.db
